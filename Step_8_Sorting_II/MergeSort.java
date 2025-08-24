@@ -51,7 +51,6 @@ public class MergeSort {
             j++;
             k++;
         }
-
     }
 
     public static void main(String[] args) {
